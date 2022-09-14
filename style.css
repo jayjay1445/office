@@ -1,0 +1,32 @@
+.mybody{
+    width: 578px;
+}
+.container{
+    width: 480px;
+    margin: auto;
+}
+.img1{
+    width: 120px;
+}
+.pass{
+    font-size: x-large;
+    font-weight: bolder;
+}
+#submit{
+    height: 30px;
+    background-color: darkblue;
+    color: white;
+}
+.not{
+    color: red;
+}
+.footer{
+    background-color: gainsboro;
+    padding-left: 20px;
+    margin-top: 20px;
+    height: 150px;
+}
+.img2{
+    width: 120px;
+    margin-top: -5px;
+}
